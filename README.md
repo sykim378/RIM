@@ -69,7 +69,7 @@ RIM/
 You can adjust the following parameters inside the script to test with your own images:
 
 * `thresholdRatio` (Default: `5`)
-  * The threshold used to identify risk regions (noise-amplified areas). The algorithm is robust to this value, but you can adjust it to fine-tune the sensitivity of risk detection (Tested range: 3–10).
+  * The threshold used to identify risk regions. The algorithm is robust to this value, but you can adjust it to fine-tune the sensitivity of risk detection.
 * `targetPSNR` (Default: `36`)
   * Controls the allowable degradation caused by noise amplification. 
   * **Note:** This does *not* represent the output PSNR. A lower value (e.g., 20) preserves more of the original enhancement, while a higher value (e.g., 100) applies aggressive noise/artifact suppression. The recommended practical range is 32–40.
