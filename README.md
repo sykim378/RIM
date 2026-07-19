@@ -6,7 +6,7 @@
 
 Official MATLAB implementation for the paper **"Risk-Guided Intensity Mapping for Mitigating Amplification Artifacts in Low-Light Image Enhancement"**.
 
-In this paper, we propose **RIM (Risk-Guided Intensity Mapping)**, a lightweight and highly efficient post-processing framework designed to amplification artifacts introduced by existing low-light image enhancement (LIE) algorithms. 
+In this paper, we propose **RIM (Risk-Guided Intensity Mapping)**, a lightweight and highly efficient post-processing framework designed to suppress amplification artifacts introduced by existing low-light image enhancement (LIE) algorithms. 
 
 
 ## Visual Results
